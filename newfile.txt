@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello anuj
+=======
+this is my first file
+>>>>>>> b4b7fa08ae0a962dc5c1ba854d8797393dc046cd
